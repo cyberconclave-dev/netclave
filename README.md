@@ -6,6 +6,8 @@ NetClave is a self-hosted network-flow collection and archive pipeline for Ubunt
 
 The local JSON archive is the system of record. Kafka delivery and HTTPS alerts are optional integrations, so a broker or external notification service is not required for basic collection.
 
+Contact Information: dev@cyberconclave.io
+
 ## How NetClave works
 
 ```mermaid
