@@ -155,4 +155,5 @@ Ubuntu installation, target-host UFW behavior, live Discord/Kafka delivery, and 
 
 ## Product page
 
-The standalone product page is available in [`dist/index.html`](dist/index.html). It is dependency-free, responsive, accessible, printable, and includes an interactive architecture view that switches between local archive and Kafka modes.
+Coming soon.  Be sure to check out https://cyberconclave.io for further details or contact dev@cyberconclave.io
+
